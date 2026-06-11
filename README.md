@@ -2,3 +2,4 @@
 - 👀 I like bringing new creative stuff into the world 
 - 🌱 I’m currently building stuff with Vuejs and Laravel as I learn Rust!
 - 📫 Tell me things at fredrickmakoffu@gmail.com
+- https://cmonfred.wtf/
